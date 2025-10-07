@@ -9,4 +9,4 @@ Compound = P*((1+R1)**T)
 
 Compound_interest = Compound - P
 
-print(f' The Compound interest is {Compound_interest}')
+print(f' The Compound interest is = {Compound_interest}')
